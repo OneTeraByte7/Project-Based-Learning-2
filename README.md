@@ -8,7 +8,12 @@
 
 ## 📂 Repository Structure
 
-📦 HandSignLangDetection ├── 📁 images # Contains images related to the project ├── 📄 HandSignLangDetection_Upgraded.py # Main script with upgraded detection logic ├── 📄 hand_point_module.py # Module for hand key point detection ├── 📄 main.py # Entry point for the program ├── 📄 README.md # Project documentation
+📦 HandSignLangDetection 
+├── 📁 images # Contains images related to the project 
+├── 📄 HandSignLangDetection_Upgraded.py # Main script with upgraded detection logic 
+├── 📄 hand_point_module.py # Module for hand key point detection 
+├── 📄 main.py # Entry point for the program 
+├── 📄 README.md # Project documentation
 
 
 ## 🎯 Features
