@@ -1,8 +1,8 @@
 # 🖐 Hand Sign Language Detection
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OneTeraByte7/HandSignLangDetection)
-![GitHub contributors](https://img.shields.io/github/contributors/OneTeraByte7/HandSignLangDetection)
-![GitHub last commit](https://img.shields.io/github/last-commit/OneTeraByte7/HandSignLangDetection)
+![GitHub repo size](https://img.shields.io/github/repo-size/OneTeraByte7/Project-Based-Learning)
+![GitHub contributors](https://img.shields.io/github/contributors/OneTeraByte7/Project-Based-Learninn)
+![GitHub last commit](https://img.shields.io/github/last-commit/OneTeraByte7/Project-Based-Learninon)
 
 🚀 A Python-based Hand Sign Language Detection system that leverages computer vision and machine learning to recognize hand gestures.
 
@@ -22,14 +22,15 @@
 ## 🛠 Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/OneTeraByte7/HandSignLangDetection.git
    cd HandSignLangDetection
 ```
 
 2. Install dependencies:
-  ```bash
+```bash
 pip install -r requirements
+
 ```
 
 3. Run the main script:
