@@ -1,3 +1,7 @@
+## 🏆 TROPHIES
+[![trophy](https://github-profile-trophy.vercel.app/?username=OneTeraByte7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # 🖐 Hand Sign Language Detection
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/OneTeraByte7/Project-Based-Learning)
@@ -10,9 +14,13 @@
 
 📦 HandSignLangDetection 
 ├── 📁 images # Contains images related to the project 
+
 ├── 📄 HandSignLangDetection_Upgraded.py # Main script with upgraded detection logic 
+
 ├── 📄 hand_point_module.py # Module for hand key point detection 
+
 ├── 📄 main.py # Entry point for the program 
+
 ├── 📄 README.md # Project documentation
 
 
