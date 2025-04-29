@@ -4,9 +4,10 @@
 
 # 🖐 Hand Sign Language Detection
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OneTeraByte7/Project-Based-Learning)
-![GitHub contributors](https://img.shields.io/github/contributors/OneTeraByte7/Project-Based-Learninn)
-![GitHub last commit](https://img.shields.io/github/last-commit/OneTeraByte7/Project-Based-Learninon)
+![GitHub repo size](https://img.shields.io/github/repo-size/OneTeraByte7/BookMyTurf?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/OneTeraByte7/BookMyTurf?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/OneTeraByte7/BookMyTurf?style=for-the-badge)
+
 
 🚀 A Python-based Hand Sign Language Detection system that leverages computer vision and machine learning to recognize hand gestures.
 
