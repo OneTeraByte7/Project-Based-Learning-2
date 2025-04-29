@@ -4,9 +4,10 @@
 
 # 🖐 Hand Sign Language Detection
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OneTeraByte7/BookMyTurf)
-![GitHub contributors](https://img.shields.io/github/contributors/OneTeraByte7/BookMyTurf)
-![GitHub last commit](https://img.shields.io/github/last-commit/OneTeraByte7/BookMyTurf)
+![GitHub repo name](https://img.shields.io/badge/Project-Project--Based--Learning--2-blue?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/OneTeraByte7/Project-Based-Learning-2?style=for-the-badge)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 
 
 
