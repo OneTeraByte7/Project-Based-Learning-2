@@ -4,9 +4,9 @@
 
 # 🖐 Hand Sign Language Detection
 
-![GitHub repo name](https://img.shields.io/badge/Project-Project--Based--Learning--2-blue?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/OneTeraByte7/Project-Based-Learning-2?style=for-the-badge)
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![GitHub repo name](https://img.shields.io/badge/Project-Project--Based--Learning--2-blue)
+![GitHub top language](https://img.shields.io/github/languages/top/OneTeraByte7/Project-Based-Learning-2)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
 
